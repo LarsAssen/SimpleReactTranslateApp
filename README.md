@@ -1,0 +1,2 @@
+# SimpleReactTranslateApp
+Created with CodeSandbox
